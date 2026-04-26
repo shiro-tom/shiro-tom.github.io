@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[88304,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0_rzpmuk7t.nd.js"],"default"]
+3:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"page-section","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"section-label","children":"Other Works"}],["$","h1",null,{"className":"section-title","children":"小説、イラスト、DIY、その他作品"}],["$","p",null,{"className":"section-copy","children":"技術制作だけでなく、自分の感性や興味の延長にある作品もここに載せていきます。 小説、イラスト、DIY など、多様なアウトプットを一つの場所にまとめるためのページです。"}],["$","$L2",null,{"items":[{"title":"カタクリ（ワンピース）","category":"100均の道具でフィギュア作成","description":"ワンピースの「カタクリ」と「「マルコ」が好きで、マルコの悪魔の実を食べたカタクリを妄想して作りました","image":"/images/other/other_001.png","link":"#"},{"title":"レイリー（ワンピース）","category":"100均の道具でフィギュア作成","description":"セリアの変な粘土でレイリーを作ったら化け物になりました。","image":"/images/other/other_002.png","link":"#"}]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0_rzpmuk7t.nd.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Tvws5TnD7JA8cfGj2nvKA"}
+5:null

@@ -1,1 +1,0 @@
-# shiro-tom.github.io
